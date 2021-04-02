@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    display: block;
+    width: 100%;
+}
+
+table {
+    display: block;
+    width: 80%;
+    text-align: center;
+}
+
+td {
+    border: 1px black solid;
+}
