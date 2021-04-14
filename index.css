@@ -5,6 +5,7 @@ body {
 
 .header-image {
 	margin-top: 50px;
+	width: 20%;
 }
 
 .title {
@@ -68,4 +69,21 @@ td {
 
 .specific-targets-text {
 	text-align: left;
+}
+
+.mission-statement-breakline {
+	margin-top: 30px;
+	margin-bottom: 30px;
+	width: 40%;
+	border: solid 2px black;
+}
+
+.go-fund-me {
+	text-decoration: underline;
+	font-size: 20px;
+}
+
+.closing-quote {
+	margin-left: 15%;
+	margin-right: 15%;
 }
