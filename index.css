@@ -1,19 +1,71 @@
 body {
-    text-align: center;
+	text-align: center;
+	background-color: silver;
+}
+
+.header-image {
+	margin-top: 50px;
+}
+
+.title {
+	margin-top: 20px;
+	font-size: 45px;
+}
+
+.title-breakline {
+	width: 40%;
+	border: solid 2px black;
+	margin-bottom: 50px;
+}
+
+.sub-title-breakline {
+	width: 30%;
+	border: solid 2px black;
+	margin-bottom: 25px;
 }
 
 h1 {
-    text-align: center;
-    display: block;
-    width: 100%;
+	text-align: center;
+	display: block;
+	width: 100%;
 }
 
 table {
-    display: block;
-    width: 80%;
-    text-align: center;
+	display: block;
+	width: 80%;
+	text-align: center;
+}
+
+th {
+	background-color: black;
+	font-size: 20px;
+	color: white;
+}
+
+.tr-grey {
+	background-color: grey;
 }
 
 td {
-    border: 1px black solid;
+	border: 1px black solid;
+}
+
+.mission-statement-title {
+	margin-top: 50px;
+}
+
+.mission-statement {
+	font-size: 20px;
+	margin-left: 10%;
+	margin-right: 10%;
+	text-align: center;
+}
+
+.mission-statement-qualifications {
+	font-size: 18px;
+	text-decoration: underline;
+}
+
+.specific-targets-text {
+	text-align: left;
 }
