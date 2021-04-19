@@ -26,10 +26,10 @@ ul li {
 }
 
 .toc-button {
-	font-size: 20px;
+	font-size: 30px;
 	text-decoration: underline;
 	color: black;
-	font-weight: 500;
+	font-weight: 700;
 }
 
 .toc-button:hover {
