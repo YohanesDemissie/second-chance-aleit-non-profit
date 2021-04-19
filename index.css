@@ -27,8 +27,8 @@ ul li {
 
 .toc-button {
 	font-size: 30px;
-	text-decoration: underline;
-	color: black;
+	/* text-decoration: underline;
+	color: black; */
 	font-weight: 700;
 }
 
@@ -114,8 +114,8 @@ td {
 }
 
 .go-fund-me {
-	text-decoration: underline;
-	color: black;
+	/* text-decoration: underline;
+	color: black; */
 	font-size: 30px;
 	font-weight: 900;
 }
