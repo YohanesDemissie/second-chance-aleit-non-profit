@@ -3,10 +3,38 @@ body {
 	/* background-color: silver; */
 	background-color: lightblue;
 }
+ul {
+	padding: 0px;
+}
+
+ul li {
+	list-style-type: none;
+	/* margin-right: 50px; */
+}
+
+.home-button {
+	text-decoration: underline;
+	list-style-type: none;
+	color: black;
+	font-weight: 900;
+	font-size: 20px;
+}
 
 .header-image {
 	margin-top: 50px;
 	width: 20%;
+}
+
+.toc-button {
+	font-size: 20px;
+	text-decoration: underline;
+	color: black;
+	font-weight: 500;
+}
+
+.toc-button:hover {
+	color: white;
+	text-shadow: 2px 2px grey;
 }
 
 .title {
@@ -63,6 +91,12 @@ td {
 	text-align: center;
 }
 
+.mission-statement-breakline {
+	margin-bottom: 20px;
+	width: 25%;
+	border: solid 2px black;
+}
+
 .mission-statement-qualifications {
 	font-size: 18px;
 	text-decoration: underline;
@@ -72,7 +106,7 @@ td {
 	text-align: left;
 }
 
-.mission-statement-breakline {
+.application-statement-breakline {
 	margin-top: 30px;
 	margin-bottom: 30px;
 	width: 40%;
@@ -81,7 +115,14 @@ td {
 
 .go-fund-me {
 	text-decoration: underline;
-	font-size: 20px;
+	color: black;
+	font-size: 30px;
+	font-weight: 900;
+}
+
+.go-fund-me:hover {
+	color: white;
+	text-shadow: 2px 2px grey;
 }
 
 .closing-quote {
